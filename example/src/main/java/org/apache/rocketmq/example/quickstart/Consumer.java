@@ -32,7 +32,6 @@ public class Consumer {
     public static final String TOPIC = "TopicTest";
 
     public static void main(String[] args) throws InterruptedException, MQClientException {
-
         /*
          * Instantiate with specified consumer group name.
          */
